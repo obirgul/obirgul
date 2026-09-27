@@ -16,7 +16,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=obirgul&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=obirgul&theme=dark&hide_border=false)<br/>
 
 
 <h3 align="left">Connect with me:</h3>
